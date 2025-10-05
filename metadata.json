@@ -1,0 +1,7 @@
+{
+  "name": "Kali AI Assistant",
+  "description": "An AI assistant inspired by Jarvis, designed to help with Kali Linux tasks and more, featuring a Kali-themed interface with dedicated panels for weather, Kali Linux help, and a code terminal.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
